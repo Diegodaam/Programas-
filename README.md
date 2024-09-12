@@ -1,0 +1,3 @@
+-Programa de calculadora clase: Gracias a este programa pude practicar a como utilizar las clases en c++ con un sensillo programa de claculadora.
+-Programa de Herencia: En este programa se puede observar como es que utilizo la herencia en c++ y practico su uso.
+-Programa ahorcado: El objetivo de este programa es el darle nuevamente una repasada al tema de clases agregandole el uso del for y de arreglos.
