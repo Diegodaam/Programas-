@@ -113,9 +113,7 @@ void Trabajador::mostrarinfo_numcuenta(){
             encontrado = true;
             
         
-        if(!encontrado){
-            cout<<"Trabajador no encontrado"<<endl;
-        }
+        
             cout<<"elije la opcion que deseas realizar:\n1-Retirar dinero\n2-Depositar dinero"<<endl;
             cin>>opcion3;
 
@@ -144,6 +142,9 @@ void Trabajador::mostrarinfo_numcuenta(){
 
             } 
     break;
+        }
+        if(!encontrado){
+            cout<<"Trabajador no encontrado"<<endl;
         }
     }
     
