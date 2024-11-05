@@ -7,3 +7,6 @@
 -Programa de clase abstracta: Este programa utiliza clases abstractas para desarrollar una calculadora que calcula el perímetro y el área de diferentes figuras.
 
 -Programa de polimorfismo: En este programa aplico el polimorfismo para gestionar trabajadores y beneficiarios, así como para agregar o quitar dinero de manera dinámica.
+
+-Programa serpiente: El programa de la serpiente se utilizan las listas enlazadas, las cuales me sirven para aumrntar el tama;o de la serpiente y de lograr que tenga esa animacion al moverse.
+
