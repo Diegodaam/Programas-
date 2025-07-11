@@ -20,3 +20,5 @@
 
 -Programa MainTablas (Java): Este programa me permitió practicar el uso de pilas y su representación en un componente de tabla dentro de una interfaz gráfica en Java.
 
+-Programa EduPlanner (Java): EduPlanner es un proyecto en el que pongo en práctica todo mi conocimiento de Java, utilizando diversos componentes gráficos, eventos de teclado, estructuras dinámicas, cuadros de diálogo, bucles, ventanas internas, manipulación de imágenes, entre otros elementos.
+El objetivo del proyecto es crear un sistema donde el usuario pueda registrar sus tareas, exámenes y materias sin depender de plataformas como Classroom. Además, permite al usuario calcular la calificación que necesita obtener en los parciales restantes, funcionando también como una calculadora académica. Por último, incluye un sistema que le permite al usuario estudiar de manera flexible y personalizada los temas que desee.
